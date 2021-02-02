@@ -1,4 +1,4 @@
-# Curso Java Script : Curso em video - Professor Gustavo Guanabara 
+# Curso Java Script : Curso em video - Professor Gustavo Guanabara 01/01/2021
 
 # Módulo A: Conhecendo o JavaScript 
 
@@ -13,3 +13,5 @@ O seu navegador vai trabalhar para gerar o efeito visual ( O site ) essa é uma 
 Cliente precisa de arquivos ---> arquivos são enviados pelos servidores 
 Existem tecnologias para clientes e existe tecnologias para servidores 
 Java Script é um tecnologia Client Side 
+Tecnologias relacionadas :
+Website , composto por 3 tecnologias do lado do cliente : conteúdo , design e interações : HTML , CSS e Java Script (essas três tecnologias funcionam em conjunto)
