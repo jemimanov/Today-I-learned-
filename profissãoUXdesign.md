@@ -15,7 +15,18 @@ UX design não se preocupa só com a tela , mas se preocupa com a solução.
 Importande aprender tecnicas de design de interface ex:
 Thumbzone : Areas do celular que o alcance do dedo fica mais fácil ( existem areas do celular que o alcance do dedo fica mais fácil , colocar os elementos mais importantes nessas areas)
 Tecnica 2 : Destaque os elementos mais importantes : Os elementos mais importantes da tela precisam ser destacados ( Hierarquia Visual ) Exemplo hierarquia por tamanho de fonte , hierarquia por cor , espaço. O mais importante tem que saltar aos olhos.
-t
+Tecnica 3 : A cor importa muito : deixar os elementos mais fáceis de enxergar , passa uma mensagem , passa sentimentos , cadacor tem um significado , ajudar o usuário a não cometer erros ( exemplo deixar o botão vermelho para destacar mais )
+tecnica 4 :Espaçamentos , Grid . Usar mais espaçamentos para distribuir melhor as informaçoes . Gestalt :teoria da forma ( distanciamento , proximidade de elementos similares ) Ciência das formas .Grid : ajuda a distribuir os elementos mais facilmente na tela . 
+Tecnica 5 - Use os elementos que o usuário já conhece ( As pessoas passam maior parte do tempo em outros sites e não o seu ) Lei de Jakob 
+Pegue os elementos que as pessoas já estão acostumadas a usar em outro site e com isso você vai reduzir o esforço cognitivo para enteder a tela , vai ficar mais fácil de entender . Usar as palavras que o usuario mais reconhece . Botão tem que parecer botão
+Você precisa ajudar o usuário a se recuperarem dos erros 
+Jakob Nielsen ( Design ) 10 euristicas de Nielsen  
+Ux é prova de consulta : você conversa com usuário , você testa a usabilidade com ele e você descobre o que precisa criar na tela 
+praticar , resolver desafios , experimentar é o que realmente gera aprendizado .
+Como você pode provar que vai ajudar a empresa a ter sucesso ? Algum jeito de medir e provar a qualidade do seu trabalho ( importante )
+
+
+
 
  
 
